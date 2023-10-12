@@ -1,0 +1,9 @@
+{
+  "package_name" : "Antlr4",
+  "github_url" : "https://github.com/antlr/antlr4",
+  "versions" : "4.13.0",
+  "published_date" : "2023-06-28",
+  "tested_on" : "rh7.8",
+  "language" : "java",
+  "script_url" : "https://github.ibm.com/loz/opensource-porting-s390x/issues/179"
+}
